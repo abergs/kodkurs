@@ -27,7 +27,7 @@ Strukturen är översikt -> översikt -> översikt... tills du kommer till någo
 Material som är väldigt långt kan delas in i avsnitt - exempel Bunko elixir...
 Ingenting är hugget i sten men försök följa den struktur som finns eller föreslå en annan, men chilla om du inte får som du vill. Minimera komplexitet är viktigt för detta projekt.
 
-Även material som börjar som en enkel punktlista är av värde! Allt material utvecklas lite i taget och även om du lägger till något som känns otillräckligt så möjliggör fy för någon annan att lära sig och hjälpa till genom att putsa på och förbättra det som finns.
+Även material som börjar som en enkel punktlista är av värde! Allt material utvecklas lite i taget och även om du lägger till något som känns otillräckligt så möjliggör du för någon annan att lära sig och hjälpa till genom att putsa på och förbättra det som finns.
 
 
 
